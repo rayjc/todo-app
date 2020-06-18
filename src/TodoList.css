@@ -1,0 +1,9 @@
+.TodoList-title {
+    letter-spacing: 0.2rem;
+}
+
+.TodoList-header {
+    background: azure;
+    padding: 50px;
+    border-bottom: 2px solid lightgray;
+}

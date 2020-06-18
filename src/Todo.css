@@ -1,0 +1,13 @@
+.Todo {
+    margin: 10px 20px;
+}
+
+.completed {
+    text-decoration: line-through;
+    color: grey;
+}
+
+.Todo-btn {
+    margin: auto 10px;
+    border: none;
+}
